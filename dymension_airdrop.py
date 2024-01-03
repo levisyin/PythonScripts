@@ -1,5 +1,6 @@
 import requests
 
+# paste your wallet address here, eg: "celestiaxxx" or "osmoxxx" etc.
 wallets = []
 
 for wallet in wallets:
